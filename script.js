@@ -14,7 +14,7 @@ function element(tagename,claslist,idname,content){
 // ? create container 
 
 let condainer = element("div","container","","");
-
+let head = element("h1","text-center","title","");
 let row = element("div","row","","");
 
 
